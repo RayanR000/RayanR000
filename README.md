@@ -1,9 +1,19 @@
-<h1 align="center">Hi, I'm Rayan 👋</h1>
+<h1 align="center">Rayan Rane</h1>
 <p align="center">
-  CS student @ Northeastern University · New Jersey
+  Full-stack developer · CS @ Northeastern University
   <br/>
-  Building full-stack apps that solve real problems for real people
+  I build things end-to-end and ship them
 </p>
+<p align="center">
+  <a href="https://linkedin.com/in/rayanrane"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:rane.r@northeastern.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+## Now
+
+Building **[RateMyHusky](https://github.com/RayanR000/RateMyHusky)** — a professor discovery & rating platform for NEU students
 
 ---
 
@@ -27,9 +37,12 @@
 ![CockroachDB](https://img.shields.io/badge/CockroachDB-6933FF?style=flat&logo=cockroachlabs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-**Auth & DevOps**
+**Auth**
 
 ![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=flat&logo=google&logoColor=white)
+
+**DevOps**
+
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 
