@@ -11,7 +11,11 @@
 
 ## Now
 
-Building **[RateMyHusky](https://github.com/RayanR000/RateMyHusky)** — a professor discovery & rating platform for NEU students
+<div align="center">
+
+Building **[RateMyHusky](https://github.com/RayanR000/RateMyHusky)** — professor discovery & rating platform for NEU students
+
+</div>
 
 ---
 
