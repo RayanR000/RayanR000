@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Rayan Rane</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=435&lines=Full-stack+developer;CS+%40+Northeastern+University;Building+things+end-to-end" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=cs+student+%40+northeastern;building+is+fun" alt="Typing SVG" />
   <br><br>
   <a href="https://linkedin.com/in/rayanrane"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   &nbsp;
