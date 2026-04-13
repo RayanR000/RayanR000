@@ -7,15 +7,6 @@
 
 ---
 
-## About Me
-
-- 🎓 Studying Computer Science at **Northeastern University**
-- 🛠️ I like building things end-to-end — from database to UI
-- 🔭 Currently working on: **[RateMyHusky](https://github.com/RayanR000/RateMyHusky)** — a professor discovery & rating platform for NEU students
-- 📍 Based in New Jersey
-
----
-
 ## Tech Stack
 
 **Languages**
@@ -42,32 +33,3 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 
----
-
-## Featured Project
-
-### 🐾 [RateMyHusky](https://github.com/RayanR000/RateMyHusky)
-
-> A full-stack web app for Northeastern students to discover, search, and compare professors — aggregating data from RateMyProfessors, TRACE evaluations, and NEU course metadata.
-
-- Browse & filter professors by college and department
-- Side-by-side professor comparisons
-- Leaderboard of top-rated instructors
-- Google OAuth sign-in
-- Built with **React 19 + TypeScript + Vite** (frontend) and **Python/Flask + CockroachDB** (backend)
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RayanR000&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayanR000&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
-## Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rayanrane)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rane.r@northeastern.edu)
