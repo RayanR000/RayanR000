@@ -10,13 +10,13 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RayanR000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=RayanR000&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayanR000&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=RayanR000&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=RayanR000&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
 ---
