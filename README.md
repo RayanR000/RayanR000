@@ -23,7 +23,9 @@
 
 ## Now
 
-Building **[RateMyHusky](https://github.com/RayanR000/RateMyHusky)** — a professor discovery & rating platform for NEU students
+building → [RateMyHusky](https://github.com/RayanR000/RateMyHusky)
+
+professor ratings for NEU students
 
 ---
 
