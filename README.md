@@ -30,6 +30,18 @@ currently @ northeastern, shipping between semesters.
 
 ---
 
+── projects ──────────────────────────────
+
+**[RateMyHusky](https://github.com/RayanR000/RateMyHusky)**  
+professor discovery & rating platform for NEU students  
+`next.js` · `postgresql` · `google oauth` · `tailwind`
+
+**[MOMENTUM](https://github.com/RayanR000/MOMENTUM)**  
+ai-powered weightlifting form analyzer  
+`python` · `fastapi` · `react` · `computer vision`
+
+---
+
 ## Tech Stack
 
 **Languages**
