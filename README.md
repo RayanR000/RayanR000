@@ -1,4 +1,4 @@
-# Hi, I'm Rayan Rane 👋
+# Hi, I'm Rayan Rane
 
 CS student at Northeastern University, building tools people actually use.
 
@@ -9,7 +9,7 @@ CS student at Northeastern University, building tools people actually use.
 
 ## About
 
-I'm a software engineer who enjoys shipping full-stack projects — from professor discovery platforms to AI-powered fitness tools. Currently based at Northeastern and shipping between semesters.
+I'm a software engineer who enjoys shipping full-stack projects. Currently based at Northeastern and shipping between semesters.
 
 ---
 
