@@ -25,11 +25,8 @@
 
 ---
 
-## Now
-
-building → [RateMyHusky](https://github.com/RayanR000/RateMyHusky)
-
-professor ratings for NEU students
+i build tools people actually use.  
+currently @ northeastern, shipping between semesters.
 
 ---
 
