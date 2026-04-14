@@ -42,7 +42,7 @@ ai-powered weightlifting form analyzer
 
 ---
 
-## Tech Stack
+## tech stack
 
 **languages**
 
