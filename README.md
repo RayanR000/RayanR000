@@ -1,71 +1,53 @@
-<div align="center">
-<pre>
-██████╗  █████╗ ██╗   ██╗ █████╗ ███╗   ██╗
-██╔══██╗██╔══██╗╚██╗ ██╔╝██╔══██╗████╗  ██║
-██████╔╝███████║ ╚████╔╝ ███████║██╔██╗ ██║
-██╔══██╗██╔══██║  ╚██╔╝  ██╔══██║██║╚██╗██║
-██║  ██║██║  ██║   ██║   ██║  ██║██║ ╚████║
-╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝
+# Hi, I'm Rayan Rane 👋
 
-██████╗  █████╗ ███╗   ██╗███████╗
-██╔══██╗██╔══██╗████╗  ██║██╔════╝
-██████╔╝███████║██╔██╗ ██║█████╗  
-██╔══██╗██╔══██║██║╚██╗██║██╔══╝  
-██║  ██║██║  ██║██║ ╚████║███████╗
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝
-</pre>
+CS student at Northeastern University, building tools people actually use.
 
-`cs @ northeastern`
-
-<a href="https://linkedin.com/in/rayanrane"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-&nbsp;
-<a href="mailto:rane.r@northeastern.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rayanrane)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rane.r@northeastern.edu)
 
 ---
 
-i build tools people actually use.  
-currently @ northeastern, shipping between semesters.
+## About
+
+I'm a software engineer who enjoys shipping full-stack projects — from professor discovery platforms to AI-powered fitness tools. Currently based at Northeastern and shipping between semesters.
 
 ---
 
-── projects ──────────────────────────────
+## Projects
 
-**[RateMyHusky](https://github.com/RayanR000/RateMyHusky)**  
-professor discovery & rating platform for NEU students  
-`next.js` · `postgresql` · `google oauth` · `tailwind`
+### [RateMyHusky](https://github.com/RayanR000/RateMyHusky)
+Professor discovery and rating platform for Northeastern students.  
+`Next.js` · `PostgreSQL` · `Google OAuth` · `Tailwind CSS`
 
-**[MOMENTUM](https://github.com/RayanR000/MOMENTUM)**  
-ai-powered weightlifting form analyzer  
-`python` · `fastapi` · `react` · `computer vision`
+### [MOMENTUM](https://github.com/RayanR000/MOMENTUM)
+AI-powered weightlifting form analyzer using computer vision.  
+`Python` · `FastAPI` · `React` · `Computer Vision`
 
 ---
 
-## tech stack
+## Tech Stack
 
-**languages**
+**Languages**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-**frontend**
+**Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-**backend**
+**Backend**
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![CockroachDB](https://img.shields.io/badge/CockroachDB-6933FF?style=flat&logo=cockroachlabs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![CockroachDB](https://img.shields.io/badge/CockroachDB-6933FF?style=flat&logo=cockroachlabs&logoColor=white)
 ![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=flat&logo=google&logoColor=white)
 
-**devops**
+**DevOps**
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
-
