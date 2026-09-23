@@ -1,5 +1,3 @@
-# Hi, I'm Rayan
-
-- 💻 CS student at Northeastern
-- 🛠️ Currently building tools for data acquisition, market analytics, and predictive modeling.
-- 🤔 Interested in AI, robotics, cybersecurity, and emerging technologies.
+CS student at Northeastern. Building CS2 Oracle, calibrated price-range forecasts
+for the CS2 skin market, and [eyecut](https://github.com/RayanR000/eyecut), which
+lets Claude edit video in CapCut.
